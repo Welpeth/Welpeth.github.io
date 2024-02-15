@@ -743,6 +743,10 @@ h3.my-profession {
         max-width: 100%;
     }
 
+    .container {
+        padding: -5;
+    }
+
     .contact .contact-info-item {
         word-wrap: break-word;
         width: 50%;
