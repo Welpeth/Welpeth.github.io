@@ -734,6 +734,7 @@ h3.my-profession {
 }
 
 @media (max-width:767px) {
+    .service .service-item,
     .about .about-content .experience,
     .about .about-content .courses,
     .about .about-content .skills,
