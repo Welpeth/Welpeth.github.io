@@ -749,10 +749,15 @@ h3.my-profession {
         padding: 10px;
     }
 
+    .portfolio {
+        background-color: var(--bg-black-900);
+    }
+
     .portfolio .portfolio-item {
         margin-bottom: 100px;
-        bottom: 0;
+        width: 300px;
     }
+
 
     .linkedin-btn {
        margin-left: 170px;
@@ -770,5 +775,9 @@ h3.my-profession {
         position: flex;
         width: 50%;
         word-wrap: break-word;
+    }
+
+    .portfolio .portfolio-img {
+        width: 120px;
     }
 }
